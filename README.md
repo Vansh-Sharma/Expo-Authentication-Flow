@@ -3,7 +3,8 @@ Basic authentication flow for Expo (Managed Flow) Apps. Sign up pages for both u
 
 Uses Firebase as database for user auth and logging out. Additional firebase and firestore methods can be used. 
 
-Requirements: 
+Requirements:
+
 Connect firebase with app for authentication to work - create a method with the API keys given and import it when needed
 Multiple packages required to make app function - react navigation, firebase, react native, expo (Google to confirm)
 
